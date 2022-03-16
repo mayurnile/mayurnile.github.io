@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/app_logo.svg": "5120d0ee5e18d60f4091d82878f820e7",
-"assets/AssetManifest.json": "e7f623e51d2dea8002438eaa03135eb8",
+"assets/AssetManifest.json": "6ba1838c6bfe4fa3699e26a6473f0dc4",
 "assets/assets/fonts/JosefinSans/JosefinSans-Bold.ttf": "75d240293f611020f2885e035a705f4e",
 "assets/assets/fonts/JosefinSans/JosefinSans-SemiBold.ttf": "f5c12a8ff92995d15bc240053d60db48",
 "assets/assets/fonts/Nunito/Nunito-Bold.ttf": "6b6424c109a32ec71c9b785202ed54c2",
@@ -27,6 +27,8 @@ const RESOURCES = {
 "assets/assets/images/sacred_groves.png": "610837c32dabd1cba10c78b6bb8596f2",
 "assets/assets/logo/app_logo.png": "081b8e4ae78e0eb57443cf4c4282031f",
 "assets/assets/logo/app_logo.svg": "5120d0ee5e18d60f4091d82878f820e7",
+"assets/assets/logo/logo.png": "c68c880e01a21b35769d4f36fdddfc94",
+"assets/assets/logo/reverse_loading.gif": "0db6ccd149660f2f7f9fa5225eaba837",
 "assets/FontManifest.json": "cd05022db08ec8b75f680146e836d5e3",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/loading_animation.gif": "639612106119106a8c1862f704911753",
@@ -40,10 +42,10 @@ const RESOURCES = {
 "icons/android-chrome-192x192.png": "977fc407bfcf42adae2e3af93a48ff81",
 "icons/android-chrome-512x512.png": "14d6536e41f648fa82897566662ee570",
 "icons/apple-touch-icon.png": "af90db309723b652b77f79194df9b351",
-"index.html": "5af6f4ba08501d0f11b8f65c6595a06e",
-"/": "5af6f4ba08501d0f11b8f65c6595a06e",
+"index.html": "6182f375793f1fdf49f11823df0cadc7",
+"/": "6182f375793f1fdf49f11823df0cadc7",
 "logo.png": "ad8a4a623006c68c5d3f9d8311943284",
-"main.dart.js": "c67b0c03c41aa221924d7864fa84e36f",
+"main.dart.js": "5713b5590e16691cb49dd8f414d18b00",
 "manifest.json": "fa589baffc09646c1622ec6753a56437",
 "version.json": "424e1c820abc43fa3de5db67518dd634"
 };
