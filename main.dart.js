@@ -46433,7 +46433,7 @@ A.Er.prototype={
 Kh(a,b,c,d,e,f){return A.aw4(a,b,c,d,e,f)}}
 A.HI.prototype={
 wC(a){var s=t.Tr
-return A.a2(new A.a5(B.Hb,new A.a2q(a),s),!0,s.h("aN.E"))},
+return A.a2(new A.a5(B.Hc,new A.a2q(a),s),!0,s.h("aN.E"))},
 j(a,b){var s,r=this
 if(b==null)return!1
 if(r===b)return!0
@@ -68428,7 +68428,7 @@ else if(s>480)return B.Ou
 else return B.Ov}}
 A.yQ.prototype={
 J(a){var s=null,r=A.b2(a,s,t.w).w.a,q=this.c?B.hl:B.ek
-return A.dl(s,A.bS(A.a([A.fZ(s,A.ku("assets/logo/app_logo.svg",s,B.az,42,72),B.a3,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7s(),s,s,s)],t.p),B.m,B.o,B.j),B.n,s,s,s,s,r.b*0.1,s,q,s,s,r.a)}}
+return A.dl(s,A.bS(A.a([A.fZ(s,A.ku("/logo/app_logo.svg",s,B.az,42,72),B.a3,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7s(),s,s,s)],t.p),B.m,B.o,B.j),B.n,s,s,s,s,r.b*0.1,s,q,s,s,r.a)}}
 A.a7s.prototype={
 $0(){var s=$.dw().ce(0,t.Q),r=$.az.I$.z.k(0,s.ax),q=r==null?null:r.gZ()
 if(q!=null){r=s.db
@@ -68437,7 +68437,7 @@ B.b.gbU(r.f).pz(q,B.aa,B.bd)}},
 $S:0}
 A.yR.prototype={
 J(a){var s=null,r=A.b2(a,s,t.w).w.a,q=this.c?B.hl:B.ek
-return A.dl(s,A.bS(A.a([A.fZ(s,A.ku("assets/logo/app_logo.svg",s,B.az,42,72),B.a3,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7t(),s,s,s)],t.p),B.m,B.o,B.j),B.n,s,s,s,s,r.b*0.1,s,q,s,s,r.a)}}
+return A.dl(s,A.bS(A.a([A.fZ(s,A.ku("/logo/app_logo.svg",s,B.az,42,72),B.a3,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a7t(),s,s,s)],t.p),B.m,B.o,B.j),B.n,s,s,s,s,r.b*0.1,s,q,s,s,r.a)}}
 A.a7t.prototype={
 $0(){var s=$.dw().ce(0,t.Q),r=$.az.I$.z.k(0,s.ax),q=r==null?null:r.gZ()
 if(q!=null){r=s.db
@@ -68489,7 +68489,7 @@ else s=n>800?72:42
 n=p.b
 r=t.p
 q=A.a([],r)
-if(m)q.push(A.b5(A.alx(A.a([B.Ns,B.Nw,B.Nx,A.dl(o,o,B.n,B.aj,o,o,o,p.c.b*0.3,o,o,o,o,2)],r)),B.m,B.cr,B.j))
+if(m)q.push(A.b5(A.alx(A.a([B.Nw,B.Nv,B.Nx,A.dl(o,o,B.n,B.aj,o,o,o,p.c.b*0.3,o,o,o,o,2)],r)),B.m,B.cr,B.j))
 q.push(A.Fl(p.a.c.$2(p.d,n),1))
 if(m)q.push(A.b5(A.alx(A.a([B.TR,B.c0,A.dl(o,o,B.n,B.aj,o,o,o,p.c.b*0.15,o,o,o,o,2)],r)),B.m,B.cr,B.j))
 return A.aoo(new A.cO(new A.aQ(s,0,s,0),A.bS(q,B.m,B.o,B.j),o),n,!0,!0)},
@@ -68564,7 +68564,7 @@ k=k.a.a
 s=m.d?A.av(153,195,34,133):B.V
 r=A.mS(B.L)
 q=A.fh(6)
-p=A.ku("assets/icons/skills/dart.svg",l,B.az,l,l)
+p=A.ku("/icons/skills/dart.svg",l,B.az,l,l)
 o=A.ar("Flutter Package",l,l,l,l,l,l,l,j.w.dB("Victor Mono"),l,l,l)
 n=m.a.c
 return A.fZ(l,A.h6(A.D8(A.b5(A.a([p,o,B.b2,A.ar(n.b,l,l,l,l,l,l,l,j.e,l,l,l),B.aQ,A.ar(n.c,l,l,l,l,l,l,l,j.z,l,l,l)],t.p),B.J,B.o,B.j),B.De,new A.cH(s,l,r,q,l,l,B.a1),B.a8,k*0.14,B.hi,B.hk,k*0.23),B.ar,new A.aby(m),new A.abz(m),l),B.a3,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.abA(m),l,l,l)}}
@@ -68594,7 +68594,7 @@ s=A.mS(B.L)
 r=A.fh(6)
 q=m.w
 p=this.c
-return A.fZ(o,A.dl(o,A.b5(A.a([A.ku("assets/icons/skills/dart.svg",o,B.fQ,24,24),A.ar("Flutter Package",o,o,o,o,o,o,o,q.dB("Victor Mono"),o,o,o),B.b2,A.ar(p.b,o,o,o,o,o,o,o,m.f,o,o,o),B.aQ,A.ar(p.c,o,o,o,o,o,o,o,q,o,o,o)],t.p),B.J,B.o,B.j),B.n,o,o,new A.cH(B.V,o,s,r,o,o,B.a1),o,n*0.35,B.hi,B.hk,o,o,n*0.5),B.a3,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.Yq(this),o,o,o)}}
+return A.fZ(o,A.dl(o,A.b5(A.a([A.ku("/icons/skills/dart.svg",o,B.fQ,24,24),A.ar("Flutter Package",o,o,o,o,o,o,o,q.dB("Victor Mono"),o,o,o),B.b2,A.ar(p.b,o,o,o,o,o,o,o,m.f,o,o,o),B.aQ,A.ar(p.c,o,o,o,o,o,o,o,q,o,o,o)],t.p),B.J,B.o,B.j),B.n,o,o,new A.cH(B.V,o,s,r,o,o,B.a1),o,n*0.35,B.hi,B.hk,o,o,n*0.5),B.a3,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.Yq(this),o,o,o)}}
 A.Yq.prototype={
 $0(){var s=this.a.c.y
 s.toString
@@ -68606,7 +68606,7 @@ o=o.a.a
 s=A.mS(B.L)
 r=A.fh(6)
 q=this.c
-return A.fZ(p,A.dl(p,A.b5(A.a([A.ku("assets/icons/skills/dart.svg",p,B.az,p,p),A.ar("Flutter Package",p,p,p,p,p,p,p,n.w.dB("Victor Mono"),p,p,p),B.b2,A.ar(q.b,p,p,p,p,p,p,p,n.e,p,p,p),B.aQ,A.ar(q.c,p,p,p,p,p,p,p,n.z,p,p,p)],t.p),B.J,B.o,B.j),B.n,p,p,new A.cH(B.V,p,s,r,p,p,B.a1),p,o*0.25,B.hi,B.hk,p,p,o*0.4),B.a3,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.Yr(this),p,p,p)}}
+return A.fZ(p,A.dl(p,A.b5(A.a([A.ku("/icons/skills/dart.svg",p,B.az,p,p),A.ar("Flutter Package",p,p,p,p,p,p,p,n.w.dB("Victor Mono"),p,p,p),B.b2,A.ar(q.b,p,p,p,p,p,p,p,n.e,p,p,p),B.aQ,A.ar(q.c,p,p,p,p,p,p,p,n.z,p,p,p)],t.p),B.J,B.o,B.j),B.n,p,p,new A.cH(B.V,p,s,r,p,p,B.a1),p,o*0.25,B.hi,B.hk,p,p,o*0.4),B.a3,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.Yr(this),p,p,p)}}
 A.Yr.prototype={
 $0(){var s=this.a.c.y
 s.toString
@@ -68757,7 +68757,7 @@ l=a?22:f
 k=a?f:22
 o=o?1:0
 j=t.p
-m=A.u_(18,A.mc(B.bz,A.a([A.f3(22,A.D9(A.bS(A.a([g.wH("assets/icons/skills/flutter.svg"),B.iQ,g.wH("assets/icons/skills/dart.svg"),B.iQ,g.wH("assets/icons/skills/firebase.svg")],j),B.m,B.o,B.j),B.a7,B.a8,o),f,f,l,k,f,f)],j),B.x5),B.aa,B.a8,0,m,0)
+m=A.u_(18,A.mc(B.bz,A.a([A.f3(22,A.D9(A.bS(A.a([g.wH("/icons/skills/flutter.svg"),B.iQ,g.wH("/icons/skills/dart.svg"),B.iQ,g.wH("/icons/skills/firebase.svg")],j),B.m,B.o,B.j),B.a7,B.a8,o),f,f,l,k,f,f)],j),B.x5),B.aa,B.a8,0,m,0)
 k=g.f
 l=k.a
 o=g.d?0:1
@@ -69129,10 +69129,10 @@ j=A.aR(m,j*0.05,m)
 q=g===B.fo
 p=!q
 o=t.p
-n=A.a([new A.ua(!1,A.ku("assets/icons/arrow_back.svg",m,B.az,m,m),h.ga6a(),B.L,p,m)],o)
+n=A.a([new A.ua(!1,A.ku("/icons/arrow_back.svg",m,B.az,m,m),h.ga6a(),B.L,p,m)],o)
 if(q)n.push(B.x0)
 if(p)n.push(B.iR)
-n.push(new A.ua(!0,A.ku("assets/icons/arrow_forward.svg",m,B.az,m,m),h.ga6b(),B.w,p,m))
+n.push(new A.ua(!0,A.ku("/icons/arrow_forward.svg",m,B.az,m,m),h.ga6b(),B.w,p,m))
 return A.aR(A.b5(A.a([new A.vy(h.w,new A.yT(s,g,k,i,m),new A.yT(r,g,k,i,m),m),j,A.bS(n,B.m,B.ad,B.j)],o),B.m,B.o,B.j),m,l)},
 $S:420}
 A.aeR.prototype={
@@ -70599,7 +70599,7 @@ c4=A.a([],l)
 if((b9&1)!==0)c4.push(B.xf)
 if((b9&2)!==0)c4.push(B.OM)
 if((b9&4)!==0)c4.push(B.OO)
-m.push(new A.RL(c3,c2,d,e,B.hH[b8],A.aAh(c4),B.Ha[c0],new A.H(c)))
+m.push(new A.RL(c3,c2,d,e,B.hH[b8],A.aAh(c4),B.Hb[c0],new A.H(c)))
 continue $label0$1
 case 44:e=r.getUint16(s.b,!0)
 g=s.b+=2
@@ -76237,11 +76237,11 @@ B.xd=new A.md(1,"double")
 B.OG=new A.md(2,"dotted")
 B.OI=new A.md(3,"dashed")
 B.OK=new A.md(4,"wavy")
-B.Ha=A.a(s([B.OD,B.xd,B.OG,B.OI,B.OK]),A.Z("r<md>"))
+B.Hb=A.a(s([B.OD,B.xd,B.OG,B.OI,B.OK]),A.Z("r<md>"))
 B.j5=new A.dG(1,"fuchsia")
 B.j6=new A.dG(3,"linux")
 B.j7=new A.dG(5,"windows")
-B.Hb=A.a(s([B.cI,B.j5,B.c3,B.j6,B.fn,B.j7]),A.Z("r<dG>"))
+B.Hc=A.a(s([B.cI,B.j5,B.c3,B.j6,B.fn,B.j7]),A.Z("r<dG>"))
 B.hK=A.a(s([!0,!1]),t.HZ)
 B.m5=A.a(s([1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608,16777216,33554432,67108864,134217728,268435456,536870912,1073741824,2147483648]),t.t)
 B.jq=new A.cT(0,"DoubleQuote")
@@ -77518,12 +77518,12 @@ B.dE=new A.qX(1,"doNotPop")
 B.wf=new A.qX(2,"bubble")
 B.LO=new A.hb(null,null)
 B.c8=new A.Lq(1,"down")
-B.Nv=new A.ja("assets/icons/social/github.svg",B.h,"https://github.com/mayurnile",null)
+B.Nu=new A.ja("/icons/social/github.svg",B.h,"https://github.com/mayurnile",null)
 B.iR=new A.c9(18,null,null,null)
-B.Nu=new A.ja("assets/icons/social/linkedin.svg",B.h,"https://www.linkedin.com/in/mayurnile/",null)
-B.Nt=new A.ja("assets/icons/social/instagram.svg",B.h,"https://www.instagram.com/mayurn___/",null)
-B.Hc=A.a(s([B.Nv,B.iR,B.Nu,B.iR,B.Nt]),t.p)
-B.LP=new A.oi(B.aT,B.ad,B.j,B.m,null,B.c8,null,B.Hc,null)
+B.Ns=new A.ja("/icons/social/linkedin.svg",B.h,"https://www.linkedin.com/in/mayurnile/",null)
+B.Nt=new A.ja("/icons/social/instagram.svg",B.h,"https://www.instagram.com/mayurn___/",null)
+B.Ha=A.a(s([B.Nu,B.iR,B.Ns,B.iR,B.Nt]),t.p)
+B.LP=new A.oi(B.aT,B.ad,B.j,B.m,null,B.c8,null,B.Ha,null)
 B.LQ=new A.JK(null,null)
 B.cD=new A.ok(0,"idle")
 B.LR=new A.ok(1,"transientCallbacks")
@@ -77705,9 +77705,9 @@ B.Nq=new A.yz(5,"timeout")
 B.Nr=new A.yA(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.x2=new A.Kp(0,"permissive")
 B.Vh=new A.Kp(1,"normal")
-B.Ns=new A.ja("assets/icons/social/github.svg",B.aj,"https://github.com/mayurnile",null)
-B.Nw=new A.ja("assets/icons/social/linkedin.svg",B.aj,"https://www.linkedin.com/in/mayurnile/",null)
-B.Nx=new A.ja("assets/icons/social/instagram.svg",B.aj,"https://www.instagram.com/mayurn___/",null)
+B.Nv=new A.ja("/icons/social/linkedin.svg",B.aj,"https://www.linkedin.com/in/mayurnile/",null)
+B.Nw=new A.ja("/icons/social/github.svg",B.aj,"https://github.com/mayurnile",null)
+B.Nx=new A.ja("/icons/social/instagram.svg",B.aj,"https://www.instagram.com/mayurn___/",null)
 B.x3=new A.Kt(null)
 B.x4=new A.Kw(null)
 B.Ny=new A.yD(0,"criticallyDamped")
@@ -78775,7 +78775,7 @@ return new A.a78(new A.VG(A.y(q,A.Z("a8<bC>")),A.y(q,t.V4)))})
 s($,"aKv","auH",()=>new A.a2V(A.y(t.N,A.Z("a8<bC?>?(bC?)"))))
 s($,"aH3","hv",()=>new A.abX())
 s($,"aH4","asD",()=>new A.abY(A.a([new A.QS(A.y(t.ob,A.Z("aC<ed,kQ<E,@,@>>")))],A.Z("r<QS>")),A.alV(t.z)))
-r($,"aKr","CU",()=>A.a([A.yu(3.2,"assets/icons/skills/flutter.svg","Flutter"),A.yu(3.2,"assets/icons/skills/dart.svg","Dart"),A.yu(2,"assets/icons/skills/firebase.svg","Firebase"),A.yu(1.5,"assets/icons/skills/figma.svg","Figma"),A.yu(4.4,"assets/icons/skills/after_effects.svg","Editing"),A.yu(2.4,"assets/icons/skills/lightroom.svg","Lightroom")],A.Z("r<ra>")))
+r($,"aKr","CU",()=>A.a([A.yu(3.2,"/icons/skills/flutter.svg","Flutter"),A.yu(3.2,"/icons/skills/dart.svg","Dart"),A.yu(2,"/icons/skills/firebase.svg","Firebase"),A.yu(1.5,"/icons/skills/figma.svg","Figma"),A.yu(4.4,"/icons/skills/after_effects.svg","Editing"),A.yu(2.4,"/icons/skills/lightroom.svg","Lightroom")],A.Z("r<ra>")))
 s($,"aKi","dw",()=>$.asD())
 s($,"aHX","at_",()=>new A.Hn("newline expected"))
 s($,"aJD","aua",()=>A.lN(A.akp(),new A.agt(),!1,t.N,t.eg))
